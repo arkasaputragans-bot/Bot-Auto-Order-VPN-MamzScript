@@ -1,0 +1,7 @@
+node_modules/
+.vars.json
+sellvpn.db
+*.db
+*.log
+*.bak*
+backup*.zip
